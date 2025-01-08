@@ -1,5 +1,4 @@
 #!/bin/bash
-chmod +x install_3ML.sh
-bash install_3ML.sh
+./install_3ML.sh
 
 source threeML_init.sh
