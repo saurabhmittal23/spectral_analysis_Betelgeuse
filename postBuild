@@ -1,4 +1,0 @@
-#!/bin/bash
-bash install_3ML.sh
-
-source threeML_init.sh
