@@ -1,4 +1,4 @@
 #!/bin/bash
-chmod +x install_3ML.sh
-./install_3ML.sh
-
+conda create --name threeML -c conda-forge python=3.9 numpy scipy matplotlib
+conda activate threeML
+conda install -c conda-forge -c threeml astromodels threeml

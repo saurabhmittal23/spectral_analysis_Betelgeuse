@@ -1,4 +1,4 @@
-name: threeml-env
+name: threeML
 channels:
   - conda-forge
   - threeml
