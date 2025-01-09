@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Update conda first
+conda update -n base -c conda-forge conda -y
+
 # Initialize conda
 eval "$(conda shell.bash hook)"
 conda init bash
