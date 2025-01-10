@@ -10,5 +10,5 @@ dependencies:
   - astropy=6.0.0
   - h5py=3.8.0
   - numba=0.56.4
-  - astromodels=*=*threeml
+  - astromodels
   - threeml
