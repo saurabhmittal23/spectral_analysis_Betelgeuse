@@ -1,4 +1,4 @@
-Bname: threeML
+name: threeML
 channels:
   - conda-forge
   - threeml
